@@ -9,3 +9,5 @@
 # Hapi 9-  Komanda Send files na  mundeson qe te  dergoim filet qe duam nje  personi tjeter nepermjet adreses se  e-mail
 # Hapi 10- Komanda My FILES na  mundeson qe te shofim filet qe kemi te  ruajtur ne  aplikacionin tone 
 # Hapi 11- Komanda DELETE na  mundeson te  deletoim filet qe  nuk duam 
+Gjithashtu ne  aplikacionin tone  do te  kene  mundesi qe edhe admini kryesor te  logohet tek faqa e tij  kryesore  ku atje  ai mund te  shofi ecurin e fileve te  upload .
+aplikacioni jone  mundeson hedhjen e  imazve deri ne  limit te  caktuar te kb, gjithashtu si per video audio edhe  file etj 
